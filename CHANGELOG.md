@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## [30/03/2021] - Larissa e Luiz
+
+###  ADDED
+Caso de Uso de Negócio da Monitoria e Caso de Uso do SisMonitoria
+### MODIFIED
+
+### REMOVED
+
 ## [05/03/2021] - Larissa
 
 ###  ADDED
