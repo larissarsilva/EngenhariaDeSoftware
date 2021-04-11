@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## [10/04/2021] - João Vitor e Pedro
+
+###  ADDED
+- Detalhamento dos usos de caso
+- Identificação de algumas entidades
+### MODIFIED
+
+### REMOVED
+
+
 ## [31/03/2021]  - Larissa e Luiz
 
 ###  ADDED
