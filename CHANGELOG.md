@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## [11/04/2021] - João Vitor e Pedro
+
+###  ADDED
+- Identificação das entidadaes
+- Detalhamento de algumas entidades
+### MODIFIED
+
+### REMOVED
+
 ## [10/04/2021] - João Vitor e Pedro
 
 ###  ADDED
