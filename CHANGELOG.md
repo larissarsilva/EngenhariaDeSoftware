@@ -3,7 +3,7 @@
 ## [11/04/2021] - João Vitor e Pedro
 
 ###  ADDED
-- Identificação das entidadaes
+- Identificação das entidades
 - Detalhamento de algumas entidades
 ### MODIFIED
 
