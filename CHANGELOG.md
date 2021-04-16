@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## [16/04/2021] - João Vitor e Pedro
+
+###  ADDED
+- Adicionei o caso de uso "candidatar-se para monitoria" no UseCase Diagram SisMonitoria
+- Criação de algumas Class Diagrams
+### MODIFIED
+- Ajeitei algumas entidades e as coloquei em seus respectivos Class Diagram
+- Modifiquei alguns detalhamentos
+### REMOVED
+- Definições iniciais nas operações presentes nos controladores
 ## [11/04/2021] - João Vitor e Pedro
 
 ###  ADDED
