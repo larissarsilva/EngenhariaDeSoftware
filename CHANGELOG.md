@@ -3,7 +3,7 @@
 ## [18/04/2021] - Samuel
 
 ###  ADDED
-- Inicio do Documento de Requisitos de Software
+- Início do Documento de Requisitos de Software
 ### MODIFIED
 
 ### REMOVED
