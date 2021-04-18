@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## [18/04/2021] - Samuel
+
+###  ADDED
+- Inicio do Documento de Requisitos de Software
+### MODIFIED
+
+### REMOVED
+
 ## [17/04/2021] - Ester
 
 ###  ADDED
