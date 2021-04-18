@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## [17/04/2021] - Ester
+
+###  ADDED
+- Casos de uso no modelo de negócios
+- Ator "SistemaEmail"
+- Ator "SistemaSIGA"
+### MODIFIED
+- Definição de alguns casos de uso
+### REMOVED
+- Ator "Enviar Email"
+- Atores repetidos nos pacotes contidos no SisMonitoria (modelo de projeto)
+
 ## [16/04/2021] - João Vitor e Pedro
 
 ###  ADDED
@@ -10,6 +22,8 @@
 - Modifiquei alguns detalhamentos
 ### REMOVED
 - Definições iniciais nas operações presentes nos controladores
+
+
 ## [11/04/2021] - João Vitor e Pedro
 
 ###  ADDED
@@ -19,11 +33,24 @@
 
 ### REMOVED
 
+
 ## [10/04/2021] - João Vitor e Pedro
 
 ###  ADDED
 - Detalhamento dos usos de caso
 - Identificação de algumas entidades
+### MODIFIED
+
+### REMOVED
+
+
+## [01/04/2021] - Ester
+
+###  ADDED
+- Casos de uso ao diagrama de casos de uso do modelo de negócios
+- Ator ExMonitor
+- Navegação entre as relações
+- Comentários no modelo de projeto
 ### MODIFIED
 
 ### REMOVED
