@@ -6,6 +6,9 @@
 - Casos de uso no modelo de negócios
 - Ator "SistemaEmail"
 - Ator "SistemaSIGA"
+- Ator "SisMonitoria"
+- Ator "SistemaDATP"
+- Relação entre atores e casos de uso
 ### MODIFIED
 - Definição de alguns casos de uso
 ### REMOVED
