@@ -1,5 +1,17 @@
 # CHANGELOG
 
+
+## [24/04/2021] - Larissa
+
+###  ADDED
+- Arquivo com a criação das Tabelas do Banco de Dados do SisMonitoria
+- Arquivo para consultar a Tabela
+- Arquivo para inserir Dados 
+
+### MODIFIED
+
+### REMOVED
+
 ## [24/04/2021] - Samuel / Larissa
 
 ###  ADDED
