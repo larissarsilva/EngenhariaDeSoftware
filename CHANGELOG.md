@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## [23/04/2021] - Ester
+
+###  ADDED
+- Arquivo Documento de Requisitos - SisMonitoria.pdf
+### MODIFIED
+- Definição de alguns casos de uso
+### REMOVED
+- Arquivo .astah repetido
+- Arquivos .lock
+- Arquivos .docx#
+
+
 ## [18/04/2021] - Samuel
 
 ###  ADDED
@@ -7,6 +19,7 @@
 ### MODIFIED
 
 ### REMOVED
+
 
 ## [17/04/2021] - Ester
 
@@ -22,6 +35,7 @@
 ### REMOVED
 - Ator "Enviar Email"
 - Atores repetidos nos pacotes contidos no SisMonitoria (modelo de projeto)
+
 
 ## [16/04/2021] - João Vitor e Pedro
 
