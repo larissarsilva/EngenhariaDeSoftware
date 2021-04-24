@@ -1,25 +1,14 @@
 # CHANGELOG
 
-## [24/04/2021] - Larissa
+## [24/04/2021] - Samuel / Larissa
 
 ###  ADDED
-- Fluxo de Consultar Sala
+- Adição do Sumário, Introdução Resumida e Descrição do Projeto
+- Adição das Descrições, Atores, Fluxos, Pré/Pós Condições
+
 ### MODIFIED
-- Fluxo de excecção de Consultar Ata de Presneça
+- Atualização do layout do documento de Requisitos de Software
 ### REMOVED
-- Fluxo antigo de Consultar Sala
-
-## [23/04/2021] - Ester
-
-###  ADDED
-- Arquivo Documento de Requisitos - SisMonitoria.pdf
-### MODIFIED
-- Definição de alguns casos de uso
-### REMOVED
-- Arquivo .astah repetido
-- Arquivos .lock
-- Arquivos .docx#
-
 
 ## [18/04/2021] - Samuel
 
@@ -29,22 +18,17 @@
 
 ### REMOVED
 
-
 ## [17/04/2021] - Ester
 
 ###  ADDED
 - Casos de uso no modelo de negócios
 - Ator "SistemaEmail"
 - Ator "SistemaSIGA"
-- Ator "SisMonitoria"
-- Ator "SistemaDATP"
-- Relação entre atores e casos de uso
 ### MODIFIED
 - Definição de alguns casos de uso
 ### REMOVED
 - Ator "Enviar Email"
 - Atores repetidos nos pacotes contidos no SisMonitoria (modelo de projeto)
-
 
 ## [16/04/2021] - João Vitor e Pedro
 
