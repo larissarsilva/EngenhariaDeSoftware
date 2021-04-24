@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## [24/04/2021] - Larissa
+
+###  ADDED
+- Fluxo de Consultar Sala
+### MODIFIED
+- Fluxo de excecção de Consultar Ata de Presneça
+### REMOVED
+- Fluxo antigo de Consultar Sala
+
 ## [23/04/2021] - Ester
 
 ###  ADDED
