@@ -1,5 +1,23 @@
 # CHANGELOG
 
+## [02/05/2021] - Ester
+
+###  ADDED
+- Caso "Modificar Candidatura"
+- Casos adicionados acima, ao documento de requisitos
+- Classes na análise do pacote Candidato Classificado
+- Operação consultarCandidatura na tela e no controlador relacionado
+- Operações CRUD da coleção de entidades CadastroCandidatura, CadastroCandidaturaCancelada
+### MODIFIED
+- Fluxo de "Consultar Status da Candidatura"
+- Fluxo de "Cadastrar no SisMonitoria"
+- Fluxo de "Cancelar Candidatura"
+- Nome de "Consultar Status da Candidatura" para "Consultar Candidatura"
+- Nome de "CadastroCandidato" para "CadastroCandidatura"
+- Casos modificados acima, no documento de requisitos
+### REMOVED
+- Remoção das relações entre "CadastroCandidatura" e "Candidato", "CandidaturaCancelada"
+
 
 ## [24/04/2021] - Larissa
 
@@ -12,7 +30,8 @@
 
 ### REMOVED
 
-## [24/04/2021] - Samuel / Larissa
+
+## [24/04/2021] - Samuel
 
 ###  ADDED
 - Adição do Sumário, Introdução Resumida e Descrição do Projeto
@@ -22,6 +41,30 @@
 - Atualização do layout do documento de Requisitos de Software
 ### REMOVED
 
+
+## [24/04/2021] - Larissa
+
+###  ADDED
+- Fluxo de Consultar Sala
+### MODIFIED
+- Fluxo de excecção de Consultar Ata de Presneça
+### REMOVED
+- Fluxo antigo de Consultar Sala
+
+
+## [23/04/2021] - Ester
+
+###  ADDED
+- Arquivo Documento de Requisitos - SisMonitoria.pdf
+### MODIFIED
+- Definição de alguns casos de uso
+- Atualização do layout do documento de Requisitos de Software
+### REMOVED
+- Arquivo .astah repetido
+- Arquivos .lock
+- Arquivos .docx#
+
+
 ## [18/04/2021] - Samuel
 
 ###  ADDED
@@ -30,17 +73,22 @@
 
 ### REMOVED
 
+
 ## [17/04/2021] - Ester
 
 ###  ADDED
 - Casos de uso no modelo de negócios
 - Ator "SistemaEmail"
 - Ator "SistemaSIGA"
+- Ator "SisMonitoria"
+- Ator "SistemaDATP"
+- Relação entre atores e casos de uso
 ### MODIFIED
 - Definição de alguns casos de uso
 ### REMOVED
 - Ator "Enviar Email"
 - Atores repetidos nos pacotes contidos no SisMonitoria (modelo de projeto)
+
 
 ## [16/04/2021] - João Vitor e Pedro
 
@@ -103,6 +151,7 @@
 - Adicionamos um novo Ator ( Candidato )
 ### REMOVED
 
+
 ## [30/03/2021] - Larissa e Luiz
 
 ###  ADDED
@@ -110,6 +159,7 @@
 ### MODIFIED
 
 ### REMOVED
+
 
 ## [05/03/2021] - Larissa
 
