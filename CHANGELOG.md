@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## [04/05/2021] - Ester
+
+###  ADDED
+- Casos "Enviar Lista de Aprovados", "Enviar Notificações"
+- Casos adicionados acima no documento de requisitos
+### MODIFIED
+- Fluxo dos casos "Classificar Monitor", "Aprovar Monitor"
+### REMOVED
+
+
 ## [02/05/2021] - Ester
 
 ###  ADDED
