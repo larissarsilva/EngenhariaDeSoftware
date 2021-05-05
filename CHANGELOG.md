@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## [04/05/2021] - João Vitor e Pedro
+
+###  ADDED
+- Casos "Solicitar Sala para Monitoria", "Disponibilizar Sala para Monitoria", "Consultar Certificado", "Gerar Certificado"
+- Casos adicionados acima no documento de requisitos
+### MODIFIED
+- Fluxo dos casos "Solicitar Sala para Monitoria", "Disponibilizar Sala para Monitoriar"
+### REMOVED
+
 ## [04/05/2021] - Ester
 
 ###  ADDED
