@@ -1,5 +1,15 @@
 # CHANGELOG
 
+
+## [06/05/2021] - Larissa 
+
+###  ADDED
+- Inserts em Professor e Alunos
+- Tabela certificado, monitor e candidatura
+### MODIFIED
+- Auto_Increment Primary Key
+### REMOVED
+
 ## [04/05/2021] - João Vitor e Pedro
 
 ###  ADDED
