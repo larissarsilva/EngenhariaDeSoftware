@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## [06/05/2021] - João Vitor
+
+###  ADDED
+- Casos de uso "Aprovar Pendência de Disciplina", "Atualizar Informações dos Alunos", "Enviar Comunicado" , "Enviar Relatório", "Assinar Relatório", "Fazer Relatório"
+### MODIFIED
+
+### REMOVED
+
 ## [06/05/2021] - Larissa 
 
 ###  ADDED
