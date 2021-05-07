@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## [07/05/2021] - Samuel
+
+### ADDED
+
+### MODIFIED
+- Criação dos tópicos: Diagramas e Requisitos Não Funcionais
+- Descrição e Adição dos pontos do Glossário  
+- Ajuste na topificação e enumeração nos Requisitos Funcionais 
+
+### REMOVED
+
+
 ## [07/05/2021] - Ester
 
 ###  ADDED
