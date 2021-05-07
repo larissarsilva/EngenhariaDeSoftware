@@ -1,5 +1,19 @@
 # CHANGELOG
 
+## [07/05/2021] - Ester
+
+###  ADDED
+- Operações CRUD no "CadastroUsuario" na "Análise Cadastro SisMonitoria"
+- Operações cadastrar(), cadastrar(infos) e autenticarSIGA(cpf) na "Análise Cadastro SisMonitoria"
+- Tipos "Dicionario", "UsuarioAluno", "UsuarioProfessor" na "Análise Cadastro SisMonitoria"
+### MODIFIED
+- "Consultar Sala" movido de para FuncoesGerais
+- Fluxo de "Consultar Sala", "Cadastrar no SisMonitoria"
+- Análise do pacote "Cadastro SisMonitoria"
+- Nome de "CadastroSisMonitoria" para "CadastroUsuarios"
+- Nome "Cadastro no SisMonitoria" para "Usuario"
+### REMOVED
+
 
 ## [06/05/2021] - João Vitor
 
@@ -8,6 +22,7 @@
 ### MODIFIED
 
 ### REMOVED
+
 
 ## [06/05/2021] - Larissa 
 
@@ -18,6 +33,7 @@
 - Auto_Increment Primary Key
 ### REMOVED
 
+
 ## [04/05/2021] - João Vitor e Pedro
 
 ###  ADDED
@@ -26,6 +42,7 @@
 ### MODIFIED
 - Fluxo dos casos "Solicitar Sala para Monitoria", "Disponibilizar Sala para Monitoriar"
 ### REMOVED
+
 
 ## [04/05/2021] - Ester
 
