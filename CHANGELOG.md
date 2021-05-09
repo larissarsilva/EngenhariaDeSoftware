@@ -6,8 +6,8 @@
 - Caso de uso "Alocar Sala"
 - Adições feitas no .astah e refletidas no documento de requisitos
 - Operações nas boundaries "TelaOfertarDisciplina", "TelaAprovarMonitor", 
-- Operações nos controls "ControladorOfertarDisciplina", "ControladorAprovarMonitor",
-- Operações nos cadastros de monitores, candidaturas e pendencias
+- Operações nos controls "ControladorOfertarDisciplina", "ControladorAprovarMonitor", "ControladorClassificarMonitor", "ControladorAlocarSala"
+- Operações nos cadastros de monitores, candidaturas, pendencias e monitorias
 - Classe "CadastroPendencias"
 - Entity "Pendencia"
 ### MODIFIED
@@ -16,6 +16,7 @@
 - Diagrama de análise do pacote "Solicitar Monitor"
 - Mudanças acima feitas no .astah e refletidas no documento de requisitos
 ### REMOVED
+- Caso de uso repetido no documento de requisitos
 
 
 ## [07/05/2021] - Samuel
