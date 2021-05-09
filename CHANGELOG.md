@@ -10,13 +10,16 @@
 - Operações nos cadastros de monitores, candidaturas, pendencias e monitorias
 - Classe "CadastroPendencias"
 - Entity "Pendencia"
+- Caso de uso "Disponibilizar Lista de Candidatos"
 ### MODIFIED
 - Nome de "Aprovar Pendência de Disciplina" para "Resolver Pendência de Disciplina"
 - Fluxo de "Ofertar Disciplina", "Aprovar Monitor", "Classificar Monitor", "Aprovar Pendência de Disciplina"
 - Diagrama de análise do pacote "Solicitar Monitor"
 - Mudanças acima feitas no .astah e refletidas no documento de requisitos
+- Análise do pacote Solicitar Monitor concluída
 ### REMOVED
 - Caso de uso repetido no documento de requisitos
+- Caso de uso "Enviar Lista de Candidatos"
 
 
 ## [07/05/2021] - Samuel
