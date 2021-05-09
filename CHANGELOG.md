@@ -1,5 +1,23 @@
 # CHANGELOG
 
+## [08/05/2021] - Ester
+
+###  ADDED
+- Caso de uso "Alocar Sala"
+- Adições feitas no .astah e refletidas no documento de requisitos
+- Operações nas boundaries "TelaOfertarDisciplina", "TelaAprovarMonitor", 
+- Operações nos controls "ControladorOfertarDisciplina", "ControladorAprovarMonitor",
+- Operações nos cadastros de monitores, candidaturas e pendencias
+- Classe "CadastroPendencias"
+- Entity "Pendencia"
+### MODIFIED
+- Nome de "Aprovar Pendência de Disciplina" para "Resolver Pendência de Disciplina"
+- Fluxo de "Ofertar Disciplina", "Aprovar Monitor", "Classificar Monitor", "Aprovar Pendência de Disciplina"
+- Diagrama de análise do pacote "Solicitar Monitor"
+- Mudanças acima feitas no .astah e refletidas no documento de requisitos
+### REMOVED
+
+
 ## [07/05/2021] - Samuel
 
 ### ADDED
