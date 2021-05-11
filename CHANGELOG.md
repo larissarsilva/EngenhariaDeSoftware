@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## [10-11/05/2021] - Ester
+
+###  ADDED
+- Importância, objetivos gerais, objetivos específicos e introdução no capítulo 1 do documento de requisitos
+- Capa ao documento de requisitos
+### MODIFIED
+
+### REMOVED
+
+
 ## [08/05/2021] - Ester
 
 ###  ADDED
