@@ -1,5 +1,16 @@
 # CHANGELOG
 
+## [11/05/2021] - Ester
+
+###  ADDED
+- Diagrama de casos de uso de negócios do ator "monitor"
+- As subseções da seção 2 do documento, texto e diagramas
+- Diagramas de caso de uso Monitor, NAPSI, Aluno, Professor no modelo de negócios e no de sistema
+### MODIFIED
+- Seção de conteúdo do documento, seção 1.4, 
+### REMOVED
+
+
 ## [10-11/05/2021] - Ester
 
 ###  ADDED
