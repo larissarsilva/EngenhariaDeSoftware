@@ -7,9 +7,13 @@
 - Diagrama geral do sistema
 - Requisitos não funcionais do sistema
 - Fluxo de "Criar Atividade", "Corrigir Atividade", "Entregar Atividade"
+- Diagrama de atividades Cadastro no SisMonitoria
+- Diagrama de Sequencia Classificar Monitor
+- Adições refletidas no documento
 ### MODIFIED
 - Localização de alguns casos de uso em pacotes
 - Relação de alguns casos de uso com atores
+- Mudanças refletidas no documento
 ### REMOVED
 - Caso de uso "Soliciar Sala para Monitoria"
 
