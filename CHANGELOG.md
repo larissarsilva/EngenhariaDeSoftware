@@ -1,5 +1,19 @@
 # CHANGELOG
 
+## [12/05/2021] - Ester
+
+###  ADDED
+- Numeração dos requisitos funcionais
+- Diagrama geral do sistema
+- Requisitos não funcionais do sistema
+- Fluxo de "Criar Atividade", "Corrigir Atividade", "Entregar Atividade"
+### MODIFIED
+- Localização de alguns casos de uso em pacotes
+- Relação de alguns casos de uso com atores
+### REMOVED
+- Caso de uso "Soliciar Sala para Monitoria"
+
+
 ## [11/05/2021] - Ester
 
 ###  ADDED
