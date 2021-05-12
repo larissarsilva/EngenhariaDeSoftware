@@ -6,9 +6,18 @@
 - Diagrama de casos de uso de negócios do ator "monitor"
 - As subseções da seção 2 do documento, texto e diagramas
 - Diagramas de caso de uso Monitor, NAPSI, Aluno, Professor no modelo de negócios e no de sistema
+- Caso de uso "Criar Atividade", "Corrigir Atividade", "Entregar Atividade"
 ### MODIFIED
-- Seção de conteúdo do documento, seção 1.4, 
+- Seção de conteúdo do documento, seção 1.4
+- Nome do caso de uso de "Atualizar Informações dos Alunos" para "Atualizar Informações dos Cadastros"
+- Fluxo de "Fazer Relatório", "Atualizar Informações dos Cadastros", "Assinar Relatório"
+- Nome do pacote "CadastroMonitoria" para "ProcessoSeletivo" e conteúdo de casos de uso
+- Conteudo do pacote "FuncoesGerais" e diagramas do pacote
+- Fluxo de "Disponibilizar Lista de Classificados"
+- Nome do pacote "CandidatoAprovado" para "PosProcessoSeletivo" e conteúdo de casos de uso
 ### REMOVED
+- Caso de uso "Disponibilizar Sala para Monitoria"
+- Caso "Fazer Relatório"
 
 
 ## [10-11/05/2021] - Ester
