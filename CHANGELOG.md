@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## [13/05/2021] - Larissa
+
+###  ADDED
+- Indice e correções de espaçamento e erros ortográficos 
+### MODIFIED
+
+### REMOVED
+
+
 ## [12/05/2021] - Ester
 
 ###  ADDED
