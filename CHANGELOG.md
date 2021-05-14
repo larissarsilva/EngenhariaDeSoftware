@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## [13/05/2021] - João Vitor e Pedro Augusto
+
+###  ADDED
+- Diagrama de Classes Funções Gerais
+### MODIFIED
+- Fluxo do Caso de Uso Realizar Inscrição para Monitor
+### REMOVED
+
+
 ## [13/05/2021] - Larissa
 
 ###  ADDED
