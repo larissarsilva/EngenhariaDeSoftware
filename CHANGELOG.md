@@ -1,5 +1,16 @@
 # CHANGELOG
 
+## [15/05/2021] - Larissa
+
+###  ADDED
+- Descrição dos Controladores de Candidato Classificado
+- API de Aluno, Professor, etc.
+### MODIFIED
+- Git ignore com os arquivos da API
+- Consultas e Inserts no DB
+### REMOVED
+
+
 ## [15/05/2021] - Ester
 
 ###  ADDED

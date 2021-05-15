@@ -3,8 +3,8 @@ USE sismonitoria;
 
 CREATE TABLE Professor(
     codProfessor SMALLINT PRIMARY KEY AUTO_INCREMENT,
-    nome VARCHAR (30) NOT NULL,
-    email VARCHAR(30) NOT NULL UNIQUE,
+    nomeProfessor VARCHAR (30) NOT NULL,
+    emailProfessor VARCHAR(30) NOT NULL UNIQUE,
     senha VARCHAR(30) NOT NULL,
     cpf VARCHAR(11) NOT NULL UNIQUE,
     telefone VARCHAR (14) NOT NULL
@@ -12,8 +12,8 @@ CREATE TABLE Professor(
 
 CREATE TABLE Aluno(
     codAluno SMALLINT PRIMARY KEY AUTO_INCREMENT,
-    nome VARCHAR (30) NOT NULL,
-    email VARCHAR(30) NOT NULL UNIQUE,
+    nomeAluno VARCHAR (30) NOT NULL,
+    emailAluno VARCHAR(30) NOT NULL UNIQUE,
     senha VARCHAR(30) NOT NULL,
     matricula VARCHAR(11) NOT NULL UNIQUE,
     telefone VARCHAR (14) NOT NULL,
@@ -22,24 +22,27 @@ CREATE TABLE Aluno(
 
 CREATE TABLE Disciplina(
     codDisciplina SMALLINT PRIMARY KEY AUTO_INCREMENT,
+    nomeDisciplina VARCHAR (30) NOT NULL,
     codProfessor SMALLINT NOT NULL,
     dia VARCHAR (10) NOT NULL,
-    horaInicio DATETIME NOT NULL,
-    horaFim DATETIME NOT NULL,
+    horaInicio TIME NOT NULL,
+    horaFim TIME NOT NULL,
     FOREIGN KEY (codProfessor) REFERENCES Professor(codProfessor)
     );
 
 CREATE TABLE Candidatura(
     codCandidatura SMALLINT PRIMARY KEY AUTO_INCREMENT,
     codAluno SMALLINT NOT NULL,
+    codDisciplina SMALLINT NOT NULL,
     candidatoAprovado TINYINT,
-    FOREIGN KEY (codAluno) REFERENCES Aluno(codAluno)
+    FOREIGN KEY (codAluno) REFERENCES Aluno(codAluno),
+    FOREIGN KEY (codDisciplina) REFERENCES Disciplina(codDisciplina)
     );
 
 CREATE TABLE Monitor(
     codMonitor SMALLINT PRIMARY KEY AUTO_INCREMENT,
-    codALuno SMALLINT NOT NULL,
-    FOREIGN KEY (codAluno) REFERENCES Aluno(codAluno)
+    codCandidatura SMALLINT NOT NULL,
+    FOREIGN KEY (codCandidatura) REFERENCES Candidatura(codCandidatura)
     );
 
 CREATE TABLE Monitoria(
