@@ -4,11 +4,12 @@
 
 ###  ADDED
 - Diagrama de casos de uso Candidato, ExMonitor
-- Análise Consultar Ata
-- Análise Consultar Sala
+- Análise Consultar Ata, Consultar Sala, Corrigir Atividade, Criar Atividade, Entregar Atividade
+- Diagrama de sequencia ciclo de vida atividade
 ### MODIFIED
 - Fluxo de Consultar Ata
 - Fluxo de Consultar Sala
+- Atualização dos diagramas do doc (resultado da analise)
 ### REMOVED
 
 
