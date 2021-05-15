@@ -1,5 +1,18 @@
 # CHANGELOG
 
+## [15/05/2021] - Ester
+
+###  ADDED
+- Diagrama de casos de uso Candidato, ExMonitor
+- Análise Consultar Ata
+- Análise Consultar Sala
+### MODIFIED
+- Fluxo de Consultar Ata
+- Fluxo de Consultar Sala
+### REMOVED
+
+
+
 ## [13/05/2021] - João Vitor e Pedro Augusto
 
 ###  ADDED
