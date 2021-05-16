@@ -1,21 +1,2 @@
 *.astah.lock
 *.docx#
-
-db.sqlite3
-.DS_Store
-mediafiles/
-*.pyc
-__pycache__/
-
-#vscode
-.vscode/
-
-# pycharm
-.idea
-
-# General
-/venv/
-/env/
-/output/
-/cache/
-/build
