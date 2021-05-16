@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## [15/05/2021] - João Vitor
+
+###  ADDED
+- Análise dos caso: AssinarRelatorio, Atualizar Informações dos Cadastros, Consultar Certificado;
+- Análise dos casos: Consultar Edital, Enviar Comunicado, Enviar Notificações,Enviar Relatório,Gerar Certificado.
+### MODIFIED
+
+### REMOVED
+- Diagrama de Classes Funcoes Gerais
+
 ## [15/05/2021] - Larissa e Samuel
 
 ###  ADDED
