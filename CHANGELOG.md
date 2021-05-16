@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## [15/05/2021] - Larissa e Samuel
+
+###  ADDED
+- Análise Candidato Aprovado
+### MODIFIED
+- Analise Candidato Classificado
+### REMOVED
+
 ## [15/05/2021] - Larissa
 
 ###  ADDED
