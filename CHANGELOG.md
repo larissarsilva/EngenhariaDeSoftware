@@ -3,10 +3,9 @@
 ## [17/05/2021] - Luiz França
 
 ###  ADDED
-- GUI;
+- GUI.
 ### MODIFIED
 - Pasta DB movida para Protótipo.
-- 
 ### REMOVED
 
 
