@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## [17/05/2021] - Luiz França
+
+###  ADDED
+- GUI;
+### MODIFIED
+- Pasta DB movida para Protótipo.
+- 
+### REMOVED
+
+
 ## [15/05/2021] - João Vitor
 
 ###  ADDED
