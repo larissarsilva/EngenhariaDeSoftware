@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## [17/05/2021] - João Vitor
+
+###  ADDED
+- Diagramas de análise ao Documento de Requisitos.
+### MODIFIED
+- Documento de Requisitos.
+### REMOVED
+
 ## [17/05/2021] - Luiz França
 
 ###  ADDED
